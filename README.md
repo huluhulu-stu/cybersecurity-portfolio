@@ -27,3 +27,8 @@ I have a strong passion for understanding network architectures and implementing
     Configured Standard and Extended IPv4 ACLs to filter traffic.
     Implemented Inter-VLAN routing to manage data flow.
 **Outcomes**: Successfully restricted unauthorized access and optimized network security.
+
+## Learning Journey
+Through this course, I have significantly improved my hands-on skills in network simulation and security configuration. 
+**Challenges**: I found the logic behind Extended ACL rules and troubleshooting complex OSPF routing in GNS3 to be challenging.
+**Improvement Plan**: I plan to overcome these by conducting more lab practices and studying official Cisco documentation to deepen my understanding.
