@@ -19,3 +19,11 @@ I have a strong passion for understanding network architectures and implementing
 **Security Protocols**: IPv4 Access Control Lists (ACLs), VLAN Security.
 **Routing & Switching**: Layer 3 Switching, Inter-VLAN Routing, OSPF.
 **Operating Systems**: Windows, Linux (Basic).
+
+### Project 2: Network Traffic Control via IPv4 ACL Implementation
+**Objective**: To secure sensitive network segments by restricting unauthorized access using Access Control Lists.
+**Tools Used**: Cisco Packet Tracer.
+**Methodology**: 
+    Configured Standard and Extended IPv4 ACLs to filter traffic.
+    Implemented Inter-VLAN routing to manage data flow.
+**Outcomes**: Successfully restricted unauthorized access and optimized network security.
