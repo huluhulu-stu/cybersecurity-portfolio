@@ -32,3 +32,12 @@ I have a strong passion for understanding network architectures and implementing
 Through this course, I have significantly improved my hands-on skills in network simulation and security configuration. 
 **Challenges**: I found the logic behind Extended ACL rules and troubleshooting complex OSPF routing in GNS3 to be challenging.
 **Improvement Plan**: I plan to overcome these by conducting more lab practices and studying official Cisco documentation to deepen my understanding.
+
+## Career Objective
+My goal is to become a professional Cybersecurity Engineer, focusing on network defense and infrastructure security.
+
+## Contact Information
+**Email**: 25064206@siswa.um.edu.my
+**GitHub**: huluhulu-stu
+
+
